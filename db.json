@@ -1,1 +1,14 @@
-
+"posts": [
+    {
+      "id": 1,
+      "mk": "datgay"
+    },
+    {
+      "id": 2,
+      "title": "khonggay"
+    },
+    {
+      "id": 3,
+      "title": "gay"
+    }
+  ],
